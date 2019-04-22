@@ -1,4 +1,4 @@
-# spring-security-front
+# vue-simple
 
 > A vue-cli based simple project,to address simplicity, template webpack-simple used,rather than webpack.  
 
