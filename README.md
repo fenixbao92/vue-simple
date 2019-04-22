@@ -16,4 +16,3 @@ npm run build
 ```
 Thanks to codes and thoughts from https://github.com/timdongSuper/vuexSimpleDemo, which uses template webpack.
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
